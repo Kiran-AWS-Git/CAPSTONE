@@ -1,0 +1,7 @@
+Operations:
+1. add
+2.Substract
+3. Multiply
+4.Divide
+
+
